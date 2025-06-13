@@ -60,7 +60,7 @@ The Calendar App is built to showcase practical usage of **local databases in Fl
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/calendar_app.git
+    git clone https://github.com/whonikhilsethi/calendar_app.git
     cd calendar_app
     ```
 
